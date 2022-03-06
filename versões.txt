@@ -1,4 +1,4 @@
 versão 1
 versão 2 - atualização 
 Versão 2.1 - testei a função git branch criando a 
-branch staging e utilisando a git checkout. 
+branch staging e utilizando a git checkout. 
